@@ -3,7 +3,7 @@
   "displayName": "Elixir Mix Formatter",
   "description": "Elixir Mix Formatter integrated into Visual Studio Code.",
   "author": "Animus Coop <@animus-coop>",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "animus-coop",
   "preview": true,
   "license": "SEE LICENSE IN /LICENSE",

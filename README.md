@@ -13,10 +13,10 @@ Elixir Mix Formatter integrated into Visual Studio Code. **Note: Elixir and a pr
 
 ## Features
 
-- Format documents using ![Elixir Mix format task](https://hexdocs.pm/mix/main/Mix.Tasks.Format.html).
+- Format documents using [Elixir Mix format task](https://hexdocs.pm/mix/main/Mix.Tasks.Format.html).
 - Format documents without saving the file.
 
-![Formatter in action](https://raw.githubusercontent.com/animus-coop/vscode-elixir-mix-formatter/master/screenshot.gif)
+![Formatter in action](https://raw.githubusercontent.com/animus-coop/vscode-elixir-formatter/master/screenshot.gif)
 
 ## Requirements
 
@@ -39,7 +39,7 @@ ext install animus-coop.vscode-elixir-mix-formatter
 ---
 ## Release Notes
 
-## [1.0.0] - 2022-01-24
-- Initial commit
+## [1.0.1] - 2022-01-24
+- Fix readme
 
 [Read the complete CHANGELOG](https://github.com/animus-coop/vscode-elixir-mix-formatter/blob/master/CHANGELOG.md)
