@@ -32,7 +32,7 @@ export default class Formatter {
 
       // Run mix formatter script
       try {
-        const cwd = workspace.workspaceFolders[0].uri.path;
+        const cwd = workspace.workspaceFolders[0].uri.fsPath;
         cp.execSync(`mix format ${tmpFileName}`, { cwd });
       } catch (err) {
         console.error('Mix Formatter: ' + err);
