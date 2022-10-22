@@ -7,13 +7,13 @@
   "publisher": "animus-coop",
   "preview": true,
   "license": "SEE LICENSE IN /LICENSE",
-  "homepage": "https://github.com/animus-coop/vscode-elixir-mix-formatter/blob/main/README.md",
+  "homepage": "https://github.com/animus-coop/vscode-elixir-formatter/blob/main/README.md",
   "repository": {
     "type": "git",
-    "url": "https://github.com/animus-coop/vscode-elixir-mix-formatter.git"
+    "url": "https://github.com/animus-coop/vscode-elixir-formatter.git"
   },
   "bugs": {
-    "url": "https://github.com/animus-coop/vscode-elixir-mix-formatter/issues",
+    "url": "https://github.com/animus-coop/vscode-elixir-formatter/issues",
     "email": "manu@animus.com.ar"
   },
   "engines": {
